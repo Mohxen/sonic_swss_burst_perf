@@ -1,0 +1,427 @@
+### 2026-06-04T06:03:36+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   66.89%    92.95MiB / 3.762GiB   2.41%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       92.11%    150.8MiB / 3.762GiB   3.91%     0B / 0B   40MB / 54.1MB     62
+3f8b3ff7e0c0   syncd      0.58%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        16.61%    118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:03:40+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   84.34%    93.91MiB / 3.762GiB   2.44%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       97.46%    159.3MiB / 3.762GiB   4.13%     0B / 0B   40MB / 54.1MB     62
+3f8b3ff7e0c0   syncd      1.57%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.19%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:03:45+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   66.14%    94.64MiB / 3.762GiB   2.46%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       107.09%   166MiB / 3.762GiB     4.31%     0B / 0B   40MB / 54.1MB     62
+3f8b3ff7e0c0   syncd      0.56%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.84%     118.4MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:03:49+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   57.50%    96.77MiB / 3.762GiB   2.51%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       106.85%   161.6MiB / 3.762GiB   4.19%     0B / 0B   40MB / 54.1MB     62
+3f8b3ff7e0c0   syncd      0.66%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.40%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:03:53+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   70.60%    97.61MiB / 3.762GiB   2.53%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       109.01%   159.9MiB / 3.762GiB   4.15%     0B / 0B   40MB / 55.3MB     62
+3f8b3ff7e0c0   syncd      0.86%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.38%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:03:57+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   63.40%    98.12MiB / 3.762GiB   2.55%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       102.99%   161.6MiB / 3.762GiB   4.19%     0B / 0B   40MB / 55.3MB     62
+3f8b3ff7e0c0   syncd      1.55%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.47%     118.5MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:04:02+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   58.72%    98.95MiB / 3.762GiB   2.57%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       110.96%   166.8MiB / 3.762GiB   4.33%     0B / 0B   40MB / 55.3MB     62
+3f8b3ff7e0c0   syncd      0.66%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.48%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:04:05+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   59.87%    100.1MiB / 3.762GiB   2.60%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       103.81%   170.2MiB / 3.762GiB   4.42%     0B / 0B   40MB / 55.3MB     62
+3f8b3ff7e0c0   syncd      1.02%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.17%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:04:09+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   45.91%    100.8MiB / 3.762GiB   2.62%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       91.12%    161.1MiB / 3.762GiB   4.18%     0B / 0B   40MB / 55.3MB     62
+3f8b3ff7e0c0   syncd      1.03%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.54%     118.3MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:04:14+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   52.41%    101.4MiB / 3.762GiB   2.63%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       79.90%    163.4MiB / 3.762GiB   4.24%     0B / 0B   40MB / 55.3MB     62
+3f8b3ff7e0c0   syncd      1.13%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.39%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:04:18+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   58.12%    101.9MiB / 3.762GiB   2.65%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       67.92%    162.1MiB / 3.762GiB   4.21%     0B / 0B   40MB / 55.3MB     62
+3f8b3ff7e0c0   syncd      0.80%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.16%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:04:23+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   96.16%    102.5MiB / 3.762GiB   2.66%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       162.00%   162.1MiB / 3.762GiB   4.21%     0B / 0B   40MB / 55.7MB     62
+3f8b3ff7e0c0   syncd      12.24%    91.81MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        3.28%     118.5MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:04:29+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   19.79%    102.5MiB / 3.762GiB   2.66%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       58.02%    160.1MiB / 3.762GiB   4.15%     0B / 0B   40MB / 55.7MB     62
+3f8b3ff7e0c0   syncd      2.49%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.18%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:04:35+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   30.28%    102.7MiB / 3.762GiB   2.67%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       135.88%   176.2MiB / 3.762GiB   4.57%     0B / 0B   40MB / 55.7MB     62
+3f8b3ff7e0c0   syncd      3.95%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.48%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:04:40+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   21.46%    102.4MiB / 3.762GiB   2.66%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       120.28%   176.3MiB / 3.762GiB   4.58%     0B / 0B   40MB / 55.7MB     62
+3f8b3ff7e0c0   syncd      0.62%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.57%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:04:44+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   6.31%     102.4MiB / 3.762GiB   2.66%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       130.83%   187.8MiB / 3.762GiB   4.87%     0B / 0B   40MB / 55.7MB     62
+3f8b3ff7e0c0   syncd      0.79%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.15%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:04:48+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   5.57%     102.4MiB / 3.762GiB   2.66%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       109.86%   162MiB / 3.762GiB     4.20%     0B / 0B   40MB / 55.7MB     62
+3f8b3ff7e0c0   syncd      0.60%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.18%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:04:51+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   19.41%    102.5MiB / 3.762GiB   2.66%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       123.35%   171.5MiB / 3.762GiB   4.45%     0B / 0B   40MB / 55.7MB     62
+3f8b3ff7e0c0   syncd      0.80%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.55%     118.4MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:04:55+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   14.68%    102.4MiB / 3.762GiB   2.66%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       106.75%   200.2MiB / 3.762GiB   5.20%     0B / 0B   40MB / 55.7MB     62
+3f8b3ff7e0c0   syncd      0.62%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.17%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:04:59+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   11.50%    102.8MiB / 3.762GiB   2.67%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       106.68%   192.9MiB / 3.762GiB   5.01%     0B / 0B   40MB / 55.7MB     62
+3f8b3ff7e0c0   syncd      1.36%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.35%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:05:03+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   19.33%    103MiB / 3.762GiB     2.67%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       117.18%   175.4MiB / 3.762GiB   4.55%     0B / 0B   40MB / 55.7MB     62
+3f8b3ff7e0c0   syncd      1.26%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.11%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:05:07+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   11.01%    102.8MiB / 3.762GiB   2.67%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       95.51%    199.1MiB / 3.762GiB   5.17%     0B / 0B   40MB / 56.5MB     62
+3f8b3ff7e0c0   syncd      0.75%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        1.17%     118.3MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:05:11+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   4.89%     101.9MiB / 3.762GiB   2.64%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       88.03%    176.3MiB / 3.762GiB   4.58%     0B / 0B   40MB / 56.6MB     62
+3f8b3ff7e0c0   syncd      0.80%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.24%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:05:15+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   34.76%    102.4MiB / 3.762GiB   2.66%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       76.68%    174.4MiB / 3.762GiB   4.53%     0B / 0B   40MB / 56.6MB     62
+3f8b3ff7e0c0   syncd      5.98%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.55%     118.5MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:05:20+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   18.44%    101.7MiB / 3.762GiB   2.64%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       119.50%   199.8MiB / 3.762GiB   5.19%     0B / 0B   40MB / 56.6MB     62
+3f8b3ff7e0c0   syncd      0.68%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.11%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:05:25+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   13.22%    101.7MiB / 3.762GiB   2.64%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       109.07%   190.7MiB / 3.762GiB   4.95%     0B / 0B   40MB / 56.6MB     62
+3f8b3ff7e0c0   syncd      1.16%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        15.66%    118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:05:29+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   9.31%     102.2MiB / 3.762GiB   2.65%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       105.26%   204.9MiB / 3.762GiB   5.32%     0B / 0B   40MB / 56.7MB     62
+3f8b3ff7e0c0   syncd      2.29%     92.04MiB / 3.762GiB   2.39%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.50%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:05:33+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   8.71%     102MiB / 3.762GiB     2.65%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       117.70%   212MiB / 3.762GiB     5.50%     0B / 0B   40MB / 56.7MB     62
+3f8b3ff7e0c0   syncd      0.96%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.37%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:05:37+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   10.49%    102.1MiB / 3.762GiB   2.65%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       111.64%   190.2MiB / 3.762GiB   4.94%     0B / 0B   40MB / 57MB       62
+3f8b3ff7e0c0   syncd      0.60%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.07%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:05:41+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   13.50%    101.8MiB / 3.762GiB   2.64%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       112.00%   189.8MiB / 3.762GiB   4.93%     0B / 0B   40MB / 57MB       62
+3f8b3ff7e0c0   syncd      1.39%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.43%     118.3MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:05:45+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   7.06%     101.9MiB / 3.762GiB   2.64%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       107.73%   194.5MiB / 3.762GiB   5.05%     0B / 0B   40MB / 57MB       62
+3f8b3ff7e0c0   syncd      1.90%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.79%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:05:49+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   21.22%    100.6MiB / 3.762GiB   2.61%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       122.68%   208.2MiB / 3.762GiB   5.40%     0B / 0B   40MB / 57MB       62
+3f8b3ff7e0c0   syncd      0.93%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.17%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:05:54+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   4.18%     102.1MiB / 3.762GiB   2.65%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       94.04%    179.9MiB / 3.762GiB   4.67%     0B / 0B   40MB / 57MB       62
+3f8b3ff7e0c0   syncd      0.65%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.22%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:05:58+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   13.16%    102MiB / 3.762GiB     2.65%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       105.14%   209.8MiB / 3.762GiB   5.44%     0B / 0B   40MB / 57.2MB     62
+3f8b3ff7e0c0   syncd      0.91%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.99%     118.3MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:06:02+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   21.86%    102MiB / 3.762GiB     2.65%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       116.44%   181.2MiB / 3.762GiB   4.70%     0B / 0B   40MB / 57.2MB     62
+3f8b3ff7e0c0   syncd      0.81%     92.04MiB / 3.762GiB   2.39%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.19%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:06:06+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   6.74%     102MiB / 3.762GiB     2.65%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       114.28%   196.1MiB / 3.762GiB   5.09%     0B / 0B   40MB / 57.5MB     62
+3f8b3ff7e0c0   syncd      2.27%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.18%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:06:10+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   16.57%    101.1MiB / 3.762GiB   2.62%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       81.48%    196MiB / 3.762GiB     5.09%     0B / 0B   40MB / 57.6MB     62
+3f8b3ff7e0c0   syncd      0.97%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        12.39%    122MiB / 3.762GiB     3.17%     0B / 0B   32.7MB / 7.3MB    30
+### 2026-06-04T06:06:15+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   12.33%    102.1MiB / 3.762GiB   2.65%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       69.92%    181MiB / 3.762GiB     4.70%     0B / 0B   40MB / 57.7MB     62
+3f8b3ff7e0c0   syncd      0.96%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.12%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:06:19+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   11.17%    102.1MiB / 3.762GiB   2.65%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       109.95%   185MiB / 3.762GiB     4.80%     0B / 0B   40MB / 57.7MB     62
+3f8b3ff7e0c0   syncd      0.53%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.11%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:06:23+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   9.14%     101.9MiB / 3.762GiB   2.65%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       107.30%   185.5MiB / 3.762GiB   4.81%     0B / 0B   40MB / 57.8MB     62
+3f8b3ff7e0c0   syncd      0.53%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.14%     118.5MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:06:27+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   11.55%    102MiB / 3.762GiB     2.65%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       105.32%   200.3MiB / 3.762GiB   5.20%     0B / 0B   40MB / 58MB       62
+3f8b3ff7e0c0   syncd      0.64%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.17%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:06:32+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   9.05%     102MiB / 3.762GiB     2.65%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       126.47%   213.9MiB / 3.762GiB   5.55%     0B / 0B   40MB / 58MB       62
+3f8b3ff7e0c0   syncd      1.06%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.22%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:06:36+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   18.60%    102.1MiB / 3.762GiB   2.65%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       96.90%    207.3MiB / 3.762GiB   5.38%     0B / 0B   40MB / 58MB       62
+3f8b3ff7e0c0   syncd      2.40%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.36%     118.5MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:06:40+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   5.98%     102.1MiB / 3.762GiB   2.65%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       113.83%   191.3MiB / 3.762GiB   4.96%     0B / 0B   40MB / 58MB       62
+3f8b3ff7e0c0   syncd      1.16%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.39%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:06:44+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   15.17%    102.3MiB / 3.762GiB   2.65%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       106.81%   191.7MiB / 3.762GiB   4.98%     0B / 0B   40MB / 58MB       62
+3f8b3ff7e0c0   syncd      0.65%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.16%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:06:48+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   8.55%     102.1MiB / 3.762GiB   2.65%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       166.51%   181.6MiB / 3.762GiB   4.71%     0B / 0B   40MB / 58MB       62
+3f8b3ff7e0c0   syncd      3.24%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.66%     118.4MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:06:52+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   12.15%    101.1MiB / 3.762GiB   2.62%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       110.87%   206.8MiB / 3.762GiB   5.37%     0B / 0B   40MB / 58MB       62
+3f8b3ff7e0c0   syncd      0.58%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.55%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:06:56+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   12.36%    101.8MiB / 3.762GiB   2.64%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       129.78%   211.4MiB / 3.762GiB   5.49%     0B / 0B   40MB / 58MB       62
+3f8b3ff7e0c0   syncd      0.96%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        18.74%    122MiB / 3.762GiB     3.17%     0B / 0B   32.7MB / 7.3MB    30
+### 2026-06-04T06:07:00+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   43.30%    101.9MiB / 3.762GiB   2.64%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       183.21%   189.5MiB / 3.762GiB   4.92%     0B / 0B   40MB / 58.5MB     62
+3f8b3ff7e0c0   syncd      1.26%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.68%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:07:03+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   8.34%     101.4MiB / 3.762GiB   2.63%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       123.05%   201.2MiB / 3.762GiB   5.22%     0B / 0B   40MB / 58.5MB     62
+3f8b3ff7e0c0   syncd      0.92%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        1.18%     118.3MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:07:07+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   10.64%    102.1MiB / 3.762GiB   2.65%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       126.17%   187.5MiB / 3.762GiB   4.87%     0B / 0B   40MB / 58.5MB     62
+3f8b3ff7e0c0   syncd      0.76%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.17%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:07:11+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   64.94%    102MiB / 3.762GiB     2.65%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       235.98%   201.2MiB / 3.762GiB   5.22%     0B / 0B   40MB / 58.5MB     62
+3f8b3ff7e0c0   syncd      3.26%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        25.93%    121.7MiB / 3.762GiB   3.16%     0B / 0B   32.7MB / 7.3MB    30
+### 2026-06-04T06:07:16+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   66.25%    102.2MiB / 3.762GiB   2.65%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       143.27%   205.2MiB / 3.762GiB   5.33%     0B / 0B   40MB / 58.5MB     62
+3f8b3ff7e0c0   syncd      1.29%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.30%     118.5MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:07:20+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   61.72%    100.8MiB / 3.762GiB   2.62%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       127.13%   209.5MiB / 3.762GiB   5.44%     0B / 0B   40MB / 58.5MB     62
+3f8b3ff7e0c0   syncd      0.88%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.20%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:07:25+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   97.35%    102.3MiB / 3.762GiB   2.65%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       150.49%   207.4MiB / 3.762GiB   5.38%     0B / 0B   40MB / 58.6MB     62
+3f8b3ff7e0c0   syncd      2.97%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.29%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:07:29+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   57.88%    102.4MiB / 3.762GiB   2.66%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       128.10%   188.1MiB / 3.762GiB   4.88%     0B / 0B   40MB / 58.6MB     62
+3f8b3ff7e0c0   syncd      1.06%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.09%     118.5MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:07:33+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   53.79%    101.1MiB / 3.762GiB   2.63%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       109.47%   219.6MiB / 3.762GiB   5.70%     0B / 0B   40MB / 58.7MB     62
+3f8b3ff7e0c0   syncd      0.68%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.09%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:07:38+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   19.71%    102.3MiB / 3.762GiB   2.66%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       107.28%   200MiB / 3.762GiB     5.19%     0B / 0B   40MB / 58.9MB     62
+3f8b3ff7e0c0   syncd      0.59%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        56.26%    122.2MiB / 3.762GiB   3.17%     0B / 0B   32.7MB / 7.3MB    31
+### 2026-06-04T06:07:42+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   9.07%     100.7MiB / 3.762GiB   2.61%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       107.55%   209.7MiB / 3.762GiB   5.44%     0B / 0B   40MB / 58.9MB     62
+3f8b3ff7e0c0   syncd      0.56%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        12.56%    118.3MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.3MB    29
+### 2026-06-04T06:07:46+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   14.80%    102.3MiB / 3.762GiB   2.66%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       110.34%   224.8MiB / 3.762GiB   5.84%     0B / 0B   40MB / 58.9MB     62
+3f8b3ff7e0c0   syncd      1.99%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.15%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.31MB   29
+### 2026-06-04T06:07:50+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   10.84%    102.5MiB / 3.762GiB   2.66%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       129.49%   190.7MiB / 3.762GiB   4.95%     0B / 0B   40MB / 58.9MB     62
+3f8b3ff7e0c0   syncd      0.78%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.18%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.31MB   29
+### 2026-06-04T06:07:54+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   7.33%     102.2MiB / 3.762GiB   2.65%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       106.41%   192.8MiB / 3.762GiB   5.00%     0B / 0B   40MB / 58.9MB     62
+3f8b3ff7e0c0   syncd      0.49%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.47%     118.5MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.31MB   29
+### 2026-06-04T06:07:58+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   6.67%     102.4MiB / 3.762GiB   2.66%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       120.09%   201.7MiB / 3.762GiB   5.24%     0B / 0B   40MB / 58.9MB     62
+3f8b3ff7e0c0   syncd      1.34%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        26.05%    118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.31MB   29
+### 2026-06-04T06:08:02+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   13.84%    101.8MiB / 3.762GiB   2.64%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       117.61%   217.6MiB / 3.762GiB   5.65%     0B / 0B   40MB / 58.9MB     62
+3f8b3ff7e0c0   syncd      1.05%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.17%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.31MB   29
+### 2026-06-04T06:08:06+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   24.62%    102.3MiB / 3.762GiB   2.66%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       178.13%   240.6MiB / 3.762GiB   6.24%     0B / 0B   40MB / 59.2MB     62
+3f8b3ff7e0c0   syncd      4.11%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.46%     118.4MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.31MB   29
+### 2026-06-04T06:08:10+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   15.81%    102.3MiB / 3.762GiB   2.66%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       82.91%    223.4MiB / 3.762GiB   5.80%     0B / 0B   40MB / 59.6MB     62
+3f8b3ff7e0c0   syncd      0.72%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.57%     118.3MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.31MB   29
+### 2026-06-04T06:08:14+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   13.82%    102.3MiB / 3.762GiB   2.65%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       60.66%    195MiB / 3.762GiB     5.06%     0B / 0B   40MB / 59.6MB     62
+3f8b3ff7e0c0   syncd      0.70%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.11%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.31MB   29
+### 2026-06-04T06:08:19+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   10.29%    102.1MiB / 3.762GiB   2.65%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       112.13%   225.7MiB / 3.762GiB   5.86%     0B / 0B   40MB / 59.6MB     62
+3f8b3ff7e0c0   syncd      1.00%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.20%     118.5MiB / 3.762GiB   3.08%     0B / 0B   32.7MB / 7.31MB   29
+### 2026-06-04T06:08:23+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   17.04%    100.8MiB / 3.762GiB   2.62%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       131.70%   216.6MiB / 3.762GiB   5.62%     0B / 0B   40MB / 59.6MB     62
+3f8b3ff7e0c0   syncd      1.96%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.96%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.31MB   29
+### 2026-06-04T06:08:27+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   4.73%     101.9MiB / 3.762GiB   2.65%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       112.69%   196.2MiB / 3.762GiB   5.09%     0B / 0B   40MB / 59.6MB     62
+3f8b3ff7e0c0   syncd      0.76%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.18%     118.2MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.31MB   29
+### 2026-06-04T06:08:31+00:00
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O   BLOCK I/O         PIDS
+4c8918896d0b   database   11.55%    100.3MiB / 3.762GiB   2.60%     0B / 0B   59.9MB / 7.09MB   21
+371269d194bc   swss       123.70%   197.1MiB / 3.762GiB   5.12%     0B / 0B   40MB / 59.7MB     62
+3f8b3ff7e0c0   syncd      0.58%     91.79MiB / 3.762GiB   2.38%     0B / 0B   64MB / 7.3MB      41
+09ceb1ab8951   bgp        0.67%     118.4MiB / 3.762GiB   3.07%     0B / 0B   32.7MB / 7.31MB   29
+### 2026-06-04T06:08:35+00:00

@@ -1,0 +1,12 @@
+{"batch_size": 10, "count": 100, "event": "start", "ifname": "Ethernet0", "nexthop": "10.0.0.1", "op": "add", "prefix_base": "100.64.0.0", "prefix_len": 32, "table": "ROUTE_TABLE", "time": 1780547862.043594}
+{"batch_count": 10, "batch_seconds": 0.2502667009999868, "done": 10, "event": "batch", "op": "add", "routes_per_second": 39.9573733143209, "time": 1780547862.2945964}
+{"batch_count": 10, "batch_seconds": 0.04138669100007064, "done": 20, "event": "batch", "op": "add", "routes_per_second": 241.62356927696712, "time": 1780547862.336721}
+{"batch_count": 10, "batch_seconds": 0.03687402299999576, "done": 30, "event": "batch", "op": "add", "routes_per_second": 271.1936259301338, "time": 1780547862.373816}
+{"batch_count": 10, "batch_seconds": 0.03757831200005057, "done": 40, "event": "batch", "op": "add", "routes_per_second": 266.11094186419393, "time": 1780547862.412132}
+{"batch_count": 10, "batch_seconds": 0.040444335000074716, "done": 50, "event": "batch", "op": "add", "routes_per_second": 247.25341633090335, "time": 1780547862.4528012}
+{"batch_count": 10, "batch_seconds": 0.029759213000033924, "done": 60, "event": "batch", "op": "add", "routes_per_second": 336.0303916635363, "time": 1780547862.482863}
+{"batch_count": 10, "batch_seconds": 0.028925805000085347, "done": 70, "event": "batch", "op": "add", "routes_per_second": 345.7120726621262, "time": 1780547862.5120094}
+{"batch_count": 10, "batch_seconds": 0.03534752199993818, "done": 80, "event": "batch", "op": "add", "routes_per_second": 282.90526277959424, "time": 1780547862.5477126}
+{"batch_count": 10, "batch_seconds": 0.06378359300003922, "done": 90, "event": "batch", "op": "add", "routes_per_second": 156.7801299621652, "time": 1780547862.612179}
+{"batch_count": 10, "batch_seconds": 0.0554291700000249, "done": 100, "event": "batch", "op": "add", "routes_per_second": 180.41042288736253, "time": 1780547862.6677923}
+{"batch_seconds_max": 0.2502667009999868, "batch_seconds_p50": 0.03757831200005057, "batch_seconds_p95": 0.2502667009999868, "count": 100, "event": "end", "op": "add", "routes_per_second": 160.2947962362346, "time": 1780547862.66816, "total_seconds": 0.623850569999945}

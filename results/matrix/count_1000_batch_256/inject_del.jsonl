@@ -1,0 +1,6 @@
+{"batch_size": 256, "count": 1000, "event": "start", "ifname": "Ethernet0", "nexthop": "10.0.0.1", "op": "del", "prefix_base": "100.64.0.0", "prefix_len": 32, "table": "ROUTE_TABLE", "time": 1780549520.0707471}
+{"batch_count": 256, "batch_seconds": 0.22119647599993186, "done": 256, "event": "batch", "op": "del", "routes_per_second": 1157.3421269156154, "time": 1780549520.2925477}
+{"batch_count": 256, "batch_seconds": 0.2198533679998036, "done": 512, "event": "batch", "op": "del", "routes_per_second": 1164.4124551243112, "time": 1780549520.5128593}
+{"batch_count": 256, "batch_seconds": 0.30766441100013253, "done": 768, "event": "batch", "op": "del", "routes_per_second": 832.0754394953069, "time": 1780549520.8206697}
+{"batch_count": 232, "batch_seconds": 0.18145981699990443, "done": 1000, "event": "batch", "op": "del", "routes_per_second": 1278.5199711742362, "time": 1780549521.002305}
+{"batch_seconds_max": 0.30766441100013253, "batch_seconds_p50": 0.22119647599993186, "batch_seconds_p95": 0.30766441100013253, "count": 1000, "event": "end", "op": "del", "routes_per_second": 1073.6306346396248, "time": 1780549521.0026243, "total_seconds": 0.9314190260001851}

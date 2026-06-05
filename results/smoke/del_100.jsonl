@@ -1,0 +1,12 @@
+{"batch_size": 10, "count": 100, "event": "start", "ifname": "Ethernet0", "nexthop": "10.0.0.1", "op": "del", "prefix_base": "100.64.0.0", "prefix_len": 32, "table": "ROUTE_TABLE", "time": 1780547864.604009}
+{"batch_count": 10, "batch_seconds": 0.08620756400000573, "done": 10, "event": "batch", "op": "del", "routes_per_second": 115.99910188854582, "time": 1780547864.6927147}
+{"batch_count": 10, "batch_seconds": 0.06699525800001993, "done": 20, "event": "batch", "op": "del", "routes_per_second": 149.2642956908536, "time": 1780547864.7605183}
+{"batch_count": 10, "batch_seconds": 0.05641502899993611, "done": 30, "event": "batch", "op": "del", "routes_per_second": 177.25773038264902, "time": 1780547864.8198807}
+{"batch_count": 10, "batch_seconds": 0.09910234000005858, "done": 40, "event": "batch", "op": "del", "routes_per_second": 100.90579092273795, "time": 1780547864.9192164}
+{"batch_count": 10, "batch_seconds": 0.07775338099997953, "done": 50, "event": "batch", "op": "del", "routes_per_second": 128.61177059300653, "time": 1780547864.997089}
+{"batch_count": 10, "batch_seconds": 0.06379714500008049, "done": 60, "event": "batch", "op": "del", "routes_per_second": 156.7468262096585, "time": 1780547865.0610259}
+{"batch_count": 10, "batch_seconds": 0.4489698129999624, "done": 70, "event": "batch", "op": "del", "routes_per_second": 22.27321238633217, "time": 1780547865.5102494}
+{"batch_count": 10, "batch_seconds": 0.03891122000004543, "done": 80, "event": "batch", "op": "del", "routes_per_second": 256.9952831082738, "time": 1780547865.5495179}
+{"batch_count": 10, "batch_seconds": 0.030698111999981847, "done": 90, "event": "batch", "op": "del", "routes_per_second": 325.752932297788, "time": 1780547865.5810487}
+{"batch_count": 10, "batch_seconds": 0.013408670999979222, "done": 100, "event": "batch", "op": "del", "routes_per_second": 745.7860663458366, "time": 1780547865.5947483}
+{"batch_seconds_max": 0.4489698129999624, "batch_seconds_p50": 0.06379714500008049, "batch_seconds_p95": 0.4489698129999624, "count": 100, "event": "end", "op": "del", "routes_per_second": 101.15813490510574, "time": 1780547865.5950313, "total_seconds": 0.9885512429999608}

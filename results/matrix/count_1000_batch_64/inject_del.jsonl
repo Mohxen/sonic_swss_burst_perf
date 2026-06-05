@@ -1,0 +1,18 @@
+{"batch_size": 64, "count": 1000, "event": "start", "ifname": "Ethernet0", "nexthop": "10.0.0.1", "op": "del", "prefix_base": "100.64.0.0", "prefix_len": 32, "table": "ROUTE_TABLE", "time": 1780549466.8019085}
+{"batch_count": 64, "batch_seconds": 0.0385778259997096, "done": 64, "event": "batch", "op": "del", "routes_per_second": 1658.9841013975688, "time": 1780549466.8408213}
+{"batch_count": 64, "batch_seconds": 0.03731128200024614, "done": 128, "event": "batch", "op": "del", "routes_per_second": 1715.2988739324958, "time": 1780549466.8785}
+{"batch_count": 64, "batch_seconds": 0.040226496000286716, "done": 192, "event": "batch", "op": "del", "routes_per_second": 1590.991171578649, "time": 1780549466.918846}
+{"batch_count": 64, "batch_seconds": 0.048052233999897, "done": 256, "event": "batch", "op": "del", "routes_per_second": 1331.8839661052425, "time": 1780549466.9670131}
+{"batch_count": 64, "batch_seconds": 0.05952149999984613, "done": 320, "event": "batch", "op": "del", "routes_per_second": 1075.2417193814915, "time": 1780549467.0270739}
+{"batch_count": 64, "batch_seconds": 0.12755249900010313, "done": 384, "event": "batch", "op": "del", "routes_per_second": 501.75418358481755, "time": 1780549467.154749}
+{"batch_count": 64, "batch_seconds": 0.09254435399998329, "done": 448, "event": "batch", "op": "del", "routes_per_second": 691.5602868653831, "time": 1780549467.247503}
+{"batch_count": 64, "batch_seconds": 0.05672718300002089, "done": 512, "event": "batch", "op": "del", "routes_per_second": 1128.2069127243008, "time": 1780549467.3045712}
+{"batch_count": 64, "batch_seconds": 0.07034071899988703, "done": 576, "event": "batch", "op": "del", "routes_per_second": 909.8570630206777, "time": 1780549467.3750544}
+{"batch_count": 64, "batch_seconds": 0.050877178000064305, "done": 640, "event": "batch", "op": "del", "routes_per_second": 1257.931404920279, "time": 1780549467.4260561}
+{"batch_count": 64, "batch_seconds": 0.0921513580001374, "done": 704, "event": "batch", "op": "del", "routes_per_second": 694.5095697873988, "time": 1780549467.5183325}
+{"batch_count": 64, "batch_seconds": 0.0784845729999688, "done": 768, "event": "batch", "op": "del", "routes_per_second": 815.4468776943647, "time": 1780549467.5969617}
+{"batch_count": 64, "batch_seconds": 0.07670358399991528, "done": 832, "event": "batch", "op": "del", "routes_per_second": 834.3808289332437, "time": 1780549467.6737883}
+{"batch_count": 64, "batch_seconds": 0.10913642300010906, "done": 896, "event": "batch", "op": "del", "routes_per_second": 586.4220050526674, "time": 1780549467.7830644}
+{"batch_count": 64, "batch_seconds": 0.10890171300025031, "done": 960, "event": "batch", "op": "del", "routes_per_second": 587.6858888331068, "time": 1780549467.892267}
+{"batch_count": 40, "batch_seconds": 0.04902155100035088, "done": 1000, "event": "batch", "op": "del", "routes_per_second": 815.9676547099396, "time": 1780549467.9415722}
+{"batch_seconds_max": 0.12755249900010313, "batch_seconds_p50": 0.07034071899988703, "batch_seconds_p95": 0.10913642300010906, "count": 1000, "event": "end", "op": "del", "routes_per_second": 877.2610317482056, "time": 1780549467.9421384, "total_seconds": 1.1399115700000948}

@@ -1,0 +1,3 @@
+{"batch_size": 1024, "count": 1000, "event": "start", "ifname": "Ethernet0", "nexthop": "10.0.0.1", "op": "del", "prefix_base": "100.64.0.0", "prefix_len": 32, "table": "ROUTE_TABLE", "time": 1780549573.5902731}
+{"batch_count": 1000, "batch_seconds": 1.0790736119997746, "done": 1000, "event": "batch", "op": "del", "routes_per_second": 926.7208361686903, "time": 1780549574.6699011}
+{"batch_seconds_max": 1.0790736119997746, "batch_seconds_p50": 1.0790736119997746, "batch_seconds_p95": 1.0790736119997746, "count": 1000, "event": "end", "op": "del", "routes_per_second": 926.300417177027, "time": 1780549574.67036, "total_seconds": 1.0795633699999598}

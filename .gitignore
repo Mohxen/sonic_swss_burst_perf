@@ -1,3 +1,7 @@
+# Local Codex/agent metadata
+.agents/
+.codex/
+
 # VM disk images and large build artifacts
 images/
 *.img
@@ -6,11 +10,6 @@ images/
 *.vmdk
 *.iso
 
-# Benchmark output
-results/
-**/results/
-logs/
-run/
 
 # Python/runtime cache
 __pycache__/

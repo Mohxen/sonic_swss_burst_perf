@@ -1,0 +1,18 @@
+{"batch_size": 64, "count": 1000, "event": "start", "ifname": "Ethernet0", "nexthop": "10.0.0.1", "op": "add", "prefix_base": "100.64.0.0", "prefix_len": 32, "table": "ROUTE_TABLE", "time": 1780549418.7407131}
+{"batch_count": 64, "batch_seconds": 0.1913922230000935, "done": 64, "event": "batch", "op": "add", "routes_per_second": 334.3918524838323, "time": 1780549418.9337182}
+{"batch_count": 64, "batch_seconds": 0.16889710200030095, "done": 128, "event": "batch", "op": "add", "routes_per_second": 378.9289410062581, "time": 1780549419.1030505}
+{"batch_count": 64, "batch_seconds": 0.11595664600008604, "done": 192, "event": "batch", "op": "add", "routes_per_second": 551.9304171660201, "time": 1780549419.2191424}
+{"batch_count": 64, "batch_seconds": 0.05085413599999811, "done": 256, "event": "batch", "op": "add", "routes_per_second": 1258.501373418327, "time": 1780549419.2701404}
+{"batch_count": 64, "batch_seconds": 0.07056130199998734, "done": 320, "event": "batch", "op": "add", "routes_per_second": 907.0127419135703, "time": 1780549419.340853}
+{"batch_count": 64, "batch_seconds": 0.06075649500007785, "done": 384, "event": "batch", "op": "add", "routes_per_second": 1053.3853211894136, "time": 1780549419.4017262}
+{"batch_count": 64, "batch_seconds": 0.049792726000305265, "done": 448, "event": "batch", "op": "add", "routes_per_second": 1285.3283027646976, "time": 1780549419.4516459}
+{"batch_count": 64, "batch_seconds": 0.0687347990001399, "done": 512, "event": "batch", "op": "add", "routes_per_second": 931.1149655048782, "time": 1780549419.520498}
+{"batch_count": 64, "batch_seconds": 0.05347605900033159, "done": 576, "event": "batch", "op": "add", "routes_per_second": 1196.7972434094884, "time": 1780549419.574145}
+{"batch_count": 64, "batch_seconds": 0.05146579099982773, "done": 640, "event": "batch", "op": "add", "routes_per_second": 1243.5444740412952, "time": 1780549419.6258469}
+{"batch_count": 64, "batch_seconds": 0.05910177299983843, "done": 704, "event": "batch", "op": "add", "routes_per_second": 1082.8778351569074, "time": 1780549419.6852767}
+{"batch_count": 64, "batch_seconds": 0.054472918000101345, "done": 768, "event": "batch", "op": "add", "routes_per_second": 1174.8957527827117, "time": 1780549419.739874}
+{"batch_count": 64, "batch_seconds": 0.06127433599976939, "done": 832, "event": "batch", "op": "add", "routes_per_second": 1044.4829626589649, "time": 1780549419.8012588}
+{"batch_count": 64, "batch_seconds": 0.06378629299979366, "done": 896, "event": "batch", "op": "add", "routes_per_second": 1003.3503593037932, "time": 1780549419.865217}
+{"batch_count": 64, "batch_seconds": 0.04509890799999994, "done": 960, "event": "batch", "op": "add", "routes_per_second": 1419.103096686955, "time": 1780549419.9104207}
+{"batch_count": 40, "batch_seconds": 0.0576139750000948, "done": 1000, "event": "batch", "op": "add", "routes_per_second": 694.2759981399337, "time": 1780549419.9681635}
+{"batch_seconds_max": 0.1913922230000935, "batch_seconds_p50": 0.06075649500007785, "batch_seconds_p95": 0.16889710200030095, "count": 1000, "event": "end", "op": "add", "routes_per_second": 815.6051628004548, "time": 1780549419.968385, "total_seconds": 1.2260834599996997}
