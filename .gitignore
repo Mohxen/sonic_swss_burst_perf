@@ -1,0 +1,21 @@
+# VM disk images and large build artifacts
+images/
+*.img
+*.img.gz
+*.qcow2
+*.vmdk
+*.iso
+
+# Benchmark output
+results/
+**/results/
+logs/
+run/
+
+# Python/runtime cache
+__pycache__/
+*.py[cod]
+
+# Local editor and OS files
+.vscode/
+.DS_Store
