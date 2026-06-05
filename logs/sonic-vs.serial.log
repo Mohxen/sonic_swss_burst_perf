@@ -1,0 +1,124 @@
+[H[J[1;1H[?25l[m[H[J[1;1H[2;30HGNU GRUB  version 2.02
+
+[m[4;2H+----------------------------------------------------------------------------+[5;2H|[5;79H|[6;2H|[6;79H|[7;2H|[7;79H|[8;2H|[8;79H|[9;2H|[9;79H|[10;2H|[10;79H|[11;2H|[11;79H|[12;2H|[12;79H|[13;2H|[13;79H|[14;2H|[14;79H|[15;2H|[15;79H|[16;2H|[16;79H|[17;2H+----------------------------------------------------------------------------+[m[18;2H[19;2H[m     Use the ^ and v keys to select which entry is highlighted.          
+      Press enter to boot the selected OS, `e' to edit the commands       
+      before booting or `c' for a command-line.                           [5;80H [7m[5;3H*SONiC-OS-master.1127735-b93b9f586                                          [m[5;78H[m[m[6;3H ONIE                                                                       [m[6;78H[m[m[7;3H                                                                            [m[7;78H[m[m[8;3H                                                                            [m[8;78H[m[m[9;3H                                                                            [m[9;78H[m[m[10;3H                                                                            [m[10;78H[m[m[11;3H                                                                            [m[11;78H[m[m[12;3H                                                                            [m[12;78H[m[m[13;3H                                                                            [m[13;78H[m[m[14;3H                                                                            [m[14;78H[m[m[15;3H                                                                            [m[15;78H[m[m[16;3H                                                                            [m[16;78H[m[16;80H [5;78H[22;1H   The highlighted entry will be executed automatically in 5s.                 [5;78H[22;1H   The highlighted entry will be executed automatically in 4s.                 [5;78H[22;1H   The highlighted entry will be executed automatically in 3s.                 [5;78H[22;1H   The highlighted entry will be executed automatically in 2s.                 [5;78H[22;1H   The highlighted entry will be executed automatically in 1s.                 [5;78H[22;1H   The highlighted entry will be executed automatically in 0s.                 [5;78H[?25h[H[J[1;1H[H[J[1;1H  Booting `SONiC-OS-master.1127735-b93b9f586'
+
+Loading SONiC-OS OS kernel ...
+error: file `/grub/i386-pc/efi_gop.mod' not found.
+Loading SONiC-OS OS initial ramdisk ...
+
+Press any key to continue...
+tune2fs 1.47.2 (1-Jan-2025)
+Setting reserved blocks percentage to 0% (0 blocks)
+Setting reserved blocks count to 0
+[!p]104[?7h[   50.021069] kdump_mem_estimator[783]: Couldn't find systemctl
+[   50.819939] kdump-tools[785]: Starting kdump-tools:
+[   50.826658] kdump-tools[790]: no crashkernel= parameter in the kernel cmdline ... failed!
+[   51.914667] rc.local[818]: + cat /etc/sonic/sonic_version.yml
+[   52.062706] rc.local[820]: + grep build_version
+[   52.282965] rc.local[821]: + sed -e s/build_version: //g;s/'//g
+[   52.730399] rc.local[809]: + SONIC_VERSION=master.1127735-b93b9f586
+[   52.816594] rc.local[809]: + FIRST_BOOT_FILE=/host/image-master.1127735-b93b9f586/platform/firsttime
+[   52.881407] rc.local[809]: + SONIC_CONFIG_DIR=/host/image-master.1127735-b93b9f586/sonic-config
+[   52.975502] rc.local[809]: + SONIC_ENV_FILE=/host/image-master.1127735-b93b9f586/sonic-config/sonic-environment
+[   53.017389] rc.local[809]: + [ -d /host/image-master.1127735-b93b9f586/sonic-config -a -f /host/image-master.1127735-b93b9f586/sonic-config/sonic-environment ]
+[   53.090401] rc.local[809]: + logger SONiC version master.1127735-b93b9f586 starting up...
+[   53.210680] rc.local[809]: + grub_installation_needed=
+[   53.265360] rc.local[809]: + [ ! -e /host/machine.conf ]
+[   53.288593] rc.local[809]: + . /host/machine.conf
+[   53.330202] rc.local[809]: + onie_arch=x86_64
+[   53.385875] rc.local[809]: + onie_bin=
+[   53.416033] rc.local[809]: + onie_boot_reason=install
+[   53.433800] rc.local[809]: + onie_build_date=2018-11-17T04:18+00:00
+[   53.473158] rc.local[809]: + onie_build_machine=kvm_x86_64
+[   53.483926] rc.local[809]: + onie_build_platform=x86_64-kvm_x86_64-r0
+[   53.530252] rc.local[809]: + onie_config_version=1
+[   53.548580] rc.local[809]: + onie_dev=/dev/vda2
+[   53.562462] rc.local[809]: + onie_disco_boot_reason=install
+[   53.570928] rc.local[809]: + onie_disco_dns=10.0.2.3
+[   53.610036] rc.local[809]: + onie_disco_interface=eth0
+[   53.628935] rc.local[809]: + onie_disco_ip=10.0.2.15
+[   53.649358] rc.local[809]: + onie_disco_lease=86400
+[   53.690332] rc.local[809]: + onie_disco_mask=24
+[   53.714240] rc.local[809]: + onie_disco_opt53=05
+[   53.769576] rc.local[809]: + onie_disco_router=10.0.2.2
+[   53.801060] rc.local[809]: + onie_disco_serverid=10.0.2.2
+[   53.822710] rc.local[809]: + onie_disco_siaddr=10.0.2.2
+[   53.861323] rc.local[809]: + onie_disco_subnet=255.255.255.0
+[   53.878679] rc.local[809]: + onie_exec_url=file://dev/vdb/onie-installer.bin
+[   53.900776] rc.local[809]: + onie_firmware=auto
+[   53.950321] rc.local[809]: + onie_grub_image_name=shimx64.efi
+[   53.975496] rc.local[809]: + onie_initrd_tmp=/
+[   53.997787] rc.local[809]: + onie_installer=/var/tmp/installer
+[   54.009680] rc.local[809]: + onie_kernel_version=4.9.95
+[   54.034256] rc.local[809]: + onie_local_parts=
+[   54.045127] rc.local[809]: + onie_machine=kvm_x86_64
+[   54.056405] rc.local[809]: + onie_machine_rev=0
+[   54.077446] rc.local[809]: + onie_neighs=[fe80::2-eth0],
+[   54.094794] rc.local[809]: + onie_partition_type=gpt
+[   54.137024] rc.local[809]: + onie_platform=x86_64-kvm_x86_64-r0
+[   54.149172] rc.local[809]: + onie_root_dir=/mnt/onie-boot/onie
+[   54.161367] rc.local[809]: + onie_secure_boot=yes
+[   54.177450] rc.local[809]: + onie_skip_ethmgmt_macs=yes
+[   54.188089] rc.local[809]: + onie_switch_asic=qemu
+[   54.197067] rc.local[809]: + onie_uefi_arch=x64
+[   54.208096] rc.local[809]: + onie_uefi_boot_loader=shimx64.efi
+[   54.224238] rc.local[809]: + onie_vendor_id=42623
+[   54.235273] rc.local[809]: + onie_version=master-201811170418
+[   54.254519] rc.local[809]: + program_console_speed
+[   54.272524] rc.local[835]: + grep -Eo console=tty(S|AMA)[0-9]+,[0-9]+
+[   54.295865] rc.local[834]: + cat /proc/cmdline
+[   54.309572] rc.local[839]: + cut -d , -f2
+[   54.354205] rc.local[809]: + speed=115200
+[   54.364772] rc.local[809]: + [ -z 115200 ]
+[   54.386515] rc.local[809]: + CONSOLE_SPEED=115200
+[   54.436653] rc.local[843]: + grep agetty /lib/systemd/system/serial-getty@.service
+[   54.487380] rc.local[844]: + grep keep-baud
+[   54.589887] rc.local[844]: ExecStart=-/sbin/agetty -o '-- \\u' --noreset --noclear --keep-baud 115200,57600,38400,9600 - ${TERM}
+[   54.700616] rc.local[809]: + [ 0 = 0 ]
+[   54.729283] rc.local[809]: + sed -i s|\-\-keep\-baud .* -| 115200 -|g /lib/systemd/system/serial-getty@.service
+[   54.778781] rc.local[809]: + systemctl daemon-reload
+[   58.004890] rc.local[809]: + platform=
+[   58.023691] rc.local[809]: + [ -n  ]
+[   58.036335] rc.local[809]: + [ -n x86_64-kvm_x86_64-r0 ]
+[   58.054694] rc.local[809]: + platform=x86_64-kvm_x86_64-r0
+[   58.067308] rc.local[809]: + /usr/bin/jq -e has("DPU") /usr/share/sonic/device/x86_64-kvm_x86_64-r0/platform.json
+[   58.139382] rc.local[809]: + [ -f /host/image-master.1127735-b93b9f586/platform/firsttime ]
+[   58.154913] rc.local[809]: + echo First boot detected. Performing first boot tasks...
+[   58.168943] rc.local[809]: First boot detected. Performing first boot tasks...
+[   58.186338] rc.local[809]: + [ -z x86_64-kvm_x86_64-r0 ]
+[   58.198868] rc.local[809]: + [ -d /host/old_config ]
+[   58.218204] rc.local[809]: + [ -f /host/minigraph.xml ]
+[   58.229298] rc.local[809]: + [ -n  ]
+[   58.238018] rc.local[809]: + NUM_ASIC=
+[   58.246135] rc.local[809]: + ASIC_CONF=/usr/share/sonic/device/x86_64-kvm_x86_64-r0/asic.conf
+[   58.260337] rc.local[809]: + [ -f /usr/share/sonic/device/x86_64-kvm_x86_64-r0/asic.conf ]
+[   58.278428] rc.local[809]: + . /usr/share/sonic/device/x86_64-kvm_x86_64-r0/asic.conf
+[   58.292217] rc.local[809]: + NUM_ASIC=1
+[   58.308073] rc.local[809]: + [ 1 -gt 1 ]
+[   58.329017] rc.local[809]: + touch /etc/sonic/pending_config_initialization
+[   58.346198] rc.local[809]: + touch /tmp/notify_firstboot_to_platform
+[   58.355425] rc.local[809]: + [ ! -d /host/reboot-cause/platform ]
+[   58.370538] rc.local[809]: + mkdir -p /host/reboot-cause/platform
+[   58.390328] rc.local[809]: + [ -d /host/image-master.1127735-b93b9f586/platform/x86_64-kvm_x86_64-r0 ]
+[   58.420842] rc.local[809]: + [ -f /host/image-master.1127735-b93b9f586/platform/common/Packages.gz ]
+[   58.437199] rc.local[809]: + dpkg -i /host/image-master.1127735-b93b9f586/platform/x86_64-kvm_x86_64-r0/sonic-platform-vs_1.0_amd64.deb
+[   59.268261] rc.local[905]: Selecting previously unselected package sonic-platform-vs.
+[   66.543080] rc.local[905]: (Reading database ... 52360 files and directories currently installed.)
+[   66.556571] rc.local[905]: Preparing to unpack .../sonic-platform-vs_1.0_amd64.deb ...
+[   66.595826] rc.local[905]: Unpacking sonic-platform-vs (1.0) ...
+[   67.126779] rc.local[905]: Setting up sonic-platform-vs (1.0) ...
+[   67.590177] rc.local[809]: + sync
+[   67.705228] rc.local[809]: + [ -n x86_64-kvm_x86_64-r0 ]
+[   67.720506] rc.local[809]: + [ -n  ]
+[   67.733068] rc.local[809]: + mkdir -p /var/platform
+[   67.750065] rc.local[809]: + [ -f /etc/default/kdump-tools ]
+[   67.762716] rc.local[809]: + sed -i -e s/__PLATFORM__/x86_64-kvm_x86_64-r0/g /etc/default/kdump-tools
+[   67.810368] rc.local[809]: + firsttime_exit
+[   67.817897] rc.local[809]: + rm -rf /host/image-master.1127735-b93b9f586/platform/firsttime
+[   67.850080] rc.local[809]: + exit 0
+[!p]104[?7h[6n[32766;32766H[6n[!p]104[?7h[6n[32766;32766H[6n
+Debian GNU/Linux 13 sonic ttyS0
+
+sonic login: [[0;1;31mFAILED[0m] Failed to start [0;1;39meventd.service[0m - EVENTD container.

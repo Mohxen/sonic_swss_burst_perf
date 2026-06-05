@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="420" viewBox="0 0 920 420">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="460.0" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#111827">Route Drain Time at Batch Size 64</text>
+<text x="18" y="194.0" transform="rotate(-90 18 194.0)" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#374151">seconds</text>
+<line x1="86" y1="334.0" x2="892" y2="334.0" stroke="#e5e7eb"/>
+<text x="76" y="338.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#6b7280">0</text>
+<line x1="86" y1="278.0" x2="892" y2="278.0" stroke="#e5e7eb"/>
+<text x="76" y="282.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#6b7280">54</text>
+<line x1="86" y1="222.0" x2="892" y2="222.0" stroke="#e5e7eb"/>
+<text x="76" y="226.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#6b7280">109</text>
+<line x1="86" y1="166.0" x2="892" y2="166.0" stroke="#e5e7eb"/>
+<text x="76" y="170.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#6b7280">163</text>
+<line x1="86" y1="110.0" x2="892" y2="110.0" stroke="#e5e7eb"/>
+<text x="76" y="114.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#6b7280">217</text>
+<line x1="86" y1="54.0" x2="892" y2="54.0" stroke="#e5e7eb"/>
+<text x="76" y="58.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#6b7280">271</text>
+<line x1="86" y1="54" x2="86" y2="334" stroke="#9ca3af"/>
+<line x1="86" y1="334" x2="892" y2="334" stroke="#9ca3af"/>
+<rect x="115.2" y="331.9" width="47.4" height="2.1" fill="#2563eb" rx="3"/>
+<text x="138.9" y="326.9" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#374151">2</text>
+<rect x="170.6" y="328.8" width="47.4" height="5.2" fill="#dc2626" rx="3"/>
+<text x="194.3" y="323.8" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#374151">5</text>
+<text x="166.6" y="358" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#111827">10k</text>
+<rect x="276.4" y="311.3" width="47.4" height="22.7" fill="#2563eb" rx="3"/>
+<text x="300.1" y="306.3" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#374151">22</text>
+<rect x="331.8" y="316.5" width="47.4" height="17.5" fill="#dc2626" rx="3"/>
+<text x="355.5" y="311.5" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#374151">17</text>
+<text x="327.8" y="358" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#111827">20k</text>
+<rect x="437.6" y="266.9" width="47.4" height="67.1" fill="#2563eb" rx="3"/>
+<text x="461.3" y="261.9" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#374151">65</text>
+<rect x="493.0" y="281.4" width="47.4" height="52.6" fill="#dc2626" rx="3"/>
+<text x="516.7" y="276.4" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#374151">51</text>
+<text x="489.0" y="358" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#111827">30k</text>
+<rect x="598.8" y="197.8" width="47.4" height="136.2" fill="#2563eb" rx="3"/>
+<text x="622.5" y="192.8" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#374151">132</text>
+<rect x="654.2" y="230.8" width="47.4" height="103.2" fill="#dc2626" rx="3"/>
+<text x="677.9" y="225.8" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#374151">100</text>
+<text x="650.2" y="358" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#111827">40k</text>
+<rect x="760.0" y="90.5" width="47.4" height="243.5" fill="#2563eb" rx="3"/>
+<text x="783.7" y="85.5" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#374151">236</text>
+<rect x="815.4" y="132.8" width="47.4" height="201.2" fill="#dc2626" rx="3"/>
+<text x="839.1" y="127.8" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#374151">195</text>
+<text x="811.4" y="358" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#111827">50k</text>
+<rect x="86" y="380" width="14" height="14" fill="#2563eb" rx="2"/>
+<text x="106" y="392" font-family="Arial, sans-serif" font-size="12" fill="#374151">add drain</text>
+<rect x="236" y="380" width="14" height="14" fill="#dc2626" rx="2"/>
+<text x="256" y="392" font-family="Arial, sans-serif" font-size="12" fill="#374151">delete drain</text>
+</svg>
