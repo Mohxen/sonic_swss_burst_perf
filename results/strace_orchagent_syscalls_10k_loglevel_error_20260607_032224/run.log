@@ -1,0 +1,10 @@
+out_dir=results/strace_orchagent_syscalls_10k_loglevel_error_20260607_032224
+orchagent_pid=2753
+orchagent_loglevel_initial=ERROR
+orchagent_loglevel_before_run=ERROR
+pending_before=0
+pending_after_add=3115
+pending_when_strace_done=0
+pending_after_cleanup_del=4880
+pending_final=0
+orchagent_loglevel_after_restore=NOTICE

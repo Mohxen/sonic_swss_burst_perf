@@ -1,0 +1,7 @@
+out_dir=results/strace_orchagent_syscalls_10k_20260607_023509
+orchagent_pid=2753
+pending_before=0
+pending_after_add=3724
+pending_when_strace_stopped=0
+pending_after_cleanup_del=784
+pending_final=0
