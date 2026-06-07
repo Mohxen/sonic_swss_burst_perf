@@ -1,0 +1,18 @@
+timestamp=2026-06-07T03:29:13+00:00
+orchagent_pid=2753
+profile_seconds=45
+perf_freq=99
+count=10000
+batch_size=64
+prefix_base=100.64.0.0
+prefix_len=32
+nexthop=10.0.0.1
+ifname=Ethernet0
+pending_before=0
+10.0.0.1 dev Ethernet0 FAILED 
+    PID    PPID %CPU %MEM COMMAND         COMMAND
+     60       1  6.1  1.8 orchagent       /usr/bin/orchagent -d /var/log/swss -b 1024 -s -m 22:ab:75:e1:b3:59 -q tcp://127.0.0.1
+pending_after_add=817
+pending_after_delete=0
+profile_rc=0
+orchagent_loglevel_after_restore=NOTICE

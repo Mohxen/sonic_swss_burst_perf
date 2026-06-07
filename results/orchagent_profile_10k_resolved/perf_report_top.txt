@@ -1,0 +1,80 @@
+# To display the perf.data header info, please use --header/--header-only options.
+#
+#
+# Total Lost Samples: 0
+#
+# Samples: 5K of event 'task-clock:ppp'
+# Event count (approx.): 58979797390
+#
+# Children      Self  Symbol                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Shared Object           IPC   [IPC Coverage]
+# ........  ........  ...............................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................  ......................  ....................
+#
+    31.50%     0.00%  [.] 0000000000000000                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             [unknown]               -      -            
+            |          
+            |--5.17%--0
+            |          |          
+            |          |--3.48%--0x7f9e0cc3bbc8
+            |          |          
+            |           --0.80%--0x7f9e0cc3bbac
+            |          
+            |--4.73%--0x5644f67d180f
+            |          
+            |--4.66%--0x5644f67d1743
+            |          
+            |--2.77%--void std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::_M_realloc_append<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&>(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)
+            |          
+            |--2.04%--0x5644f67c9805
+            |          
+            |--1.40%--std::locale::id::_M_id() const
+            |          
+            |--1.22%--0x5644f6791bb3
+            |          
+            |--1.04%--std::basic_ios<char, std::char_traits<char> >::_M_cache_locale(std::locale const&)
+            |          
+            |--0.67%--0x8
+            |          
+             --0.65%--std::basic_istream<char, std::char_traits<char> >& std::getline<char, std::char_traits<char>, std::allocator<char> >(std::basic_istream<char, std::char_traits<char> >&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >&, char)
+
+    14.06%     0.00%  [.] 0x0000000000000003                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           [unknown]               -      -            
+            |          
+            |--7.19%--0x5644f67d16ed
+            |          |          
+            |           --0.91%--asm_exc_page_fault
+            |                     |          
+            |                      --0.79%--exc_page_fault
+            |                                do_user_addr_fault
+            |                                |          
+            |                                 --0.70%--handle_mm_fault
+            |                                           |          
+            |                                            --0.69%--__handle_mm_fault
+            |                                                      |          
+            |                                                       --0.67%--do_anonymous_page
+            |          
+             --6.42%--0x5644f67d168e
+                       |          
+                        --0.79%--asm_exc_page_fault
+                                  |          
+                                   --0.72%--exc_page_fault
+                                             do_user_addr_fault
+                                             |          
+                                              --0.65%--handle_mm_fault
+                                                        |          
+                                                         --0.58%--__handle_mm_fault
+                                                                   |          
+                                                                    --0.53%--do_anonymous_page
+
+    13.02%     0.00%  [.] 0x00007f9e0d04f9a0                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           [unknown]               -      -            
+            |          
+             --11.15%--0x5644f67b274d
+                       |          
+                        --1.61%--asm_exc_page_fault
+                                  |          
+                                   --1.42%--exc_page_fault
+                                             do_user_addr_fault
+                                             |          
+                                              --1.27%--handle_mm_fault
+                                                        |          
+                                                         --1.22%--__handle_mm_fault
+                                                                   |          
+                                                                    --1.18%--do_anonymous_page
+                                                                              |          

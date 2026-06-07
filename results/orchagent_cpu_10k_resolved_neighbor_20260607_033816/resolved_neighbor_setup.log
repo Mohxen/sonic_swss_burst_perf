@@ -1,0 +1,16 @@
+out_dir=results/orchagent_cpu_10k_resolved_neighbor_20260607_033816
+count=10000
+batch_size=64
+prefix_base=100.64.0.0
+prefix_len=32
+nexthop=10.0.0.1
+ifname=Ethernet0
+lladdr=02:00:00:00:00:01
+--- before neighbor ---
+10.0.0.1 FAILED 
+--- after neighbor ---
+10.0.0.1 lladdr 02:00:00:00:00:01 PERMANENT 
+--- route/link context ---
+Ethernet0        UNKNOWN        22:ab:75:e1:b3:59 <BROADCAST,MULTICAST,UP,LOWER_UP> 
+10.0.0.1 dev Ethernet0 src 10.0.0.0 uid 1000 
+    cache 

@@ -1,0 +1,2 @@
+[ perf record: Woken up 3 times to write data ]
+[ perf record: Captured and wrote 0.708 MB results/orchagent_profile_10k_resolved/perf.data (5839 samples) ]

@@ -1,0 +1,2 @@
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.502 MB results/orchagent_cpu_10k_resolved_neighbor_20260607_033816/perf.data (4277 samples) ]
