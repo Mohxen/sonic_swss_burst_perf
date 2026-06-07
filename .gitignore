@@ -15,6 +15,17 @@ images/
 __pycache__/
 *.py[cod]
 
+# Large per-run metric files captured by collect_swss_metrics.sh
+results/**/redis_diagnostics.log
+results/**/docker_stats.log
+
+# VM serial log (append-only, often >100 MB)
+logs/sonic-vs.serial.current.log
+
+# Large binary profiling artifacts
+results/**/perf.data
+results/**/orchagent.binary
+
 # Local editor and OS files
 .vscode/
 .DS_Store

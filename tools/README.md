@@ -31,10 +31,14 @@ Use the full path after the preferred path if you need to include FRR or
 ## Files
 
 - `route_burst.py`: injects add/delete/replace route bursts into `ROUTE_TABLE`.
+- `adaptive_route_burst.py`: injects route bursts while adjusting batch size and sleep from `ROUTE_TABLE_KEY_SET` backlog.
 - `collect_swss_metrics.sh`: samples Redis, Docker CPU, and SWSS logs while a
   burst is running.
 - `report_swss_burst.py`: summarizes injector JSONL and metric snapshots.
 - `run_burst_matrix.sh`: runs a practical first-pass matrix.
+- `run_adaptive_comparison.sh`: compares normal burst injection with adaptive backpressure-aware injection.
+- `plot_pending_timeline.py`: plots pending route-key timelines from metric CSVs when matplotlib is available.
+- `profile_orchagent_perf.sh`: captures a `perf` profile of `orchagent` during a route burst.
 
 ## Prerequisites Inside the SONiC VM
 
@@ -185,3 +189,26 @@ around:
 
 Prefer aggregated counters or sampled histograms over per-route log lines.
 Per-route logging changes the workload and can become the bottleneck.
+
+## Adaptive Backpressure-Aware Route Injection
+
+The adaptive injector monitors `ROUTE_TABLE_KEY_SET` after each batch and changes its selected batch size and sleep interval to avoid overwhelming SWSS/orchagent. It is intended to compare raw producer throughput against a steadier backpressure-aware producer.
+
+Run:
+
+```bash
+COUNT_SET="20000 30000 50000" BATCH_SET="64" ./run_adaptive_comparison.sh results/adaptive_comparison
+python3 report_swss_burst.py results/adaptive_comparison
+```
+
+Expected result: normal mode may enqueue faster at first, while adaptive mode should reduce peak pending keys and long-tail drain time if the SWSS backlog is the bottleneck.
+
+## Orchagent Profiling
+
+Run a CPU profile during a route burst:
+
+```bash
+PROFILE_SECONDS=90 COUNT=10000 BATCH_SIZE=64 ./profile_orchagent_perf.sh results/orchagent_profile_10k_resolved
+```
+
+Use the text reports for a quick read and keep `perf.data` for later analysis with matching debug symbols.
