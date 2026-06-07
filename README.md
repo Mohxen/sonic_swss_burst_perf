@@ -6,6 +6,24 @@ The workload emulates a BGP-like route burst by writing route add/delete events 
 
 ---
 
+## Key Finding
+
+**`swss::tokenize()` uses `std::istringstream` — which constructs a `std::locale` on every call — and is invoked 10+ times per route in `RouteOrch::doTask()`. At 50 000 routes this causes 500 000 locale initialisations in the hot path.**
+
+Replacing `istringstream` with a plain `find`/`substr` loop (no rebuild needed — applied via `LD_PRELOAD`) reduced 50k-route drain time from **190 seconds to under 1 second: a >190× improvement.**
+
+| Routes | Before | After |
+|---:|---:|---:|
+| 10k | 4 s | <1 s |
+| 20k | 25 s | <1 s |
+| 30k | 61 s | <1 s |
+| 40k | 117 s | <1 s |
+| 50k | **190 s** | **<1 s** |
+
+The fix is in [`tools/tokenize_fix.cpp`](tools/tokenize_fix.cpp). The full investigation that led here is documented below.
+
+---
+
 ## Repository Contents
 
 | Path | Purpose |
